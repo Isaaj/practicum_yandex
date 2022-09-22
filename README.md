@@ -1,2 +1,2 @@
-# practicum_yandex
+# practicum_yandex_da_projects
 Учебные проекты выполненные на курсе аналитик данных в Яндекс.Практикуме
