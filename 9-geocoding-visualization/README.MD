@@ -1,4 +1,4 @@
-# Москва для синтетиков
+# Кафе "Сити-17"
 
 #### [Презентация](https://drive.google.com/file/d/1HCZSx8w9Ll0ogcpaHZpFI-ey0YBJ4GnX/view?usp=sharing)
 
